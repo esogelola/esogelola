@@ -1,5 +1,5 @@
 <h1 align='center'> Hi, I'm Emmanuel! :wave:</h1>
-<p align='center'> Check out my portfolio @ https://esogelola.com/ or my <a href="https://twitter.com/esogelola">Twitter</a>.</p>
+<p align='center'> Check out my portfolio @ https://esogelola.com/.</p>
 <br/>
 <div align="center">
    <img
