@@ -1,4 +1,4 @@
-<h3 align='center'> Hi, I'm Emmanuel! :wave:</h3>
+<h3 align='center'> Hi, ! :wave:</h3>
 <p align='center'> Check out my portfolio @ https://esogelola.com/</p>
 <br/>
 <div align="center">
