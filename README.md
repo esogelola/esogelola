@@ -1,7 +1,12 @@
-<h3 align='center'> Hey, what's up! :wave:</h3>
-<p align='center'> Check out my portfolio @ https://esogelola.com/</p>
-<br/>
-<div align="center">
-  <br />
-</div>
+<h3>Hi there, I'm Emmanuel Sogelola 👋</h3>
 
+<h4>🚀 Tech Highlights 🚀</h4>
+
+- 📍 Toronto, Ontario.
+- 🎮 Crafted user experiences at **Twitch**.
+- 💼 Streamlined data at **Wealthsimple**.
+- 🎓 **McMaster University** & **George Brown College** alumnus.
+
+🌍 [LinkedIn](https://www.linkedin.com/in/emmanuelsogelola/) 📁 [GitHub](https://github.com/esogelola) 🌐 [Portfolio](https://esogelola.com/)
+
+<p>Reach out: sogelole@mcmaster.ca 💌</p>
