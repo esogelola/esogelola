@@ -7,6 +7,6 @@
 - 💼 Streamlined data at **Wealthsimple**.
 - 🎓 **McMaster University** & **George Brown College** alumnus.
 
-🌍 [LinkedIn](https://www.linkedin.com/in/emmanuelsogelola/) 📁 [GitHub](https://github.com/esogelola) 🌐 [Portfolio](https://esogelola.com/)
+🌍 [LinkedIn](https://www.linkedin.com/in/emmanuelsogelola/) ---- 🌐 [Portfolio](https://esogelola.com/)
 
 <p>Reach out: sogelole@mcmaster.ca 💌</p>
